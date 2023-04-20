@@ -6,7 +6,7 @@ import time
 import datetime
 
 
-NO_FRAMES = 300
+NO_FRAMES = 30
 FPS = 30
 
 ###
@@ -119,7 +119,7 @@ def main():
 
     vid_no_var = 0
     while 1:
-        file_name = f'generated_videos/starlings_3d_{vid_no_var}.mp4'
+        file_name = f'starlings_3d_{vid_no_var}.mp4'
         if not os.path.exists(file_name):
             out = cv2.VideoWriter(file_name, fourcc, FPS, (WIDTH, HEIGHT))
             break
