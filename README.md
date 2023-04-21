@@ -1,4 +1,4 @@
-# Starling-Murmuration-Simulation
+# Starling Murmuration Simulation
 Starlings are a fascinating kinds of birds which have evolved to fly in a mindblowingly complex and beautiful pattern called murmurations. You can check out how this looks in the National Geographtic video linked below.
 
 https://youtu.be/V4f_1_r80RY
