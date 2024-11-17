@@ -1,5 +1,5 @@
 # Starling Murmuration Simulation
-Starlings are a fascinating kinds of birds which have evolved to fly in a mindblowingly complex and beautiful pattern called murmurations.
+Starlings are a fascinating kind of birds which have evolved to fly in a mindblowingly complex and beautiful pattern called murmurations.
 
 ![image](https://thumbs.gfycat.com/InsistentDistantElephantbeetle-size_restricted.gif)
 
